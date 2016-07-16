@@ -28,7 +28,7 @@ System.register(['@angular/core', './directives/progress-arc'], function(exports
                     core_1.Component({
                         selector: 'my-app',
                         directives: [progress_arc_1.ProgressArc],
-                        template: "\n        <div class=\"row\">\n          <div class=\"col-xs-6\">\n            <progress-arc [size]=\"100\" [strokeWidth]=\"5\" [stroke]=\"red\" [complete]=\"0.8\"></progress-arc>\n          </div>\n        </div>  "
+                        template: "\n        <div class=\"row\">\n          <div class=\"col-xs-6\">\n            <progress-arc [size]=100 [strokeWidth]=5 [stroke]=\"red\" [complete]=0.8></progress-arc>\n          </div>\n        </div>  "
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);

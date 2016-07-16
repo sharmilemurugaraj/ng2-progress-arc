@@ -8,7 +8,7 @@ import {ProgressArc} from './directives/progress-arc';
     template:  `
         <div class="row">
           <div class="col-xs-6">
-            <progress-arc [size]=100, [strokeWidth]=5, [stroke]=red, [complete]=0.8></progress-arc>
+            <progress-arc [size]=100 [strokeWidth]=5 [stroke]="red" [complete]=0.8></progress-arc>
           </div>
         </div>  `
 })
