@@ -1,0 +1,27 @@
+{
+  "name": "ng2-progress-arc",
+  "authors": [
+    "Sharmile M (sharmilesai@gmcail.com)"
+  ],
+  "description": "progressarc directive for angular2",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "progressarc",
+    "angular2-progress-arc",
+    "ng2-progress-arc",
+    "progress-arc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
